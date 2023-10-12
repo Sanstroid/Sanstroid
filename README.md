@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋. Me llamo Ricardo Rubén Cobos Ferrer</h1>
 <img align="right"  width = "250px" src = "https://github.com/Sanstroid/Sanstroid/assets/99502950/e144cc76-e962-4caa-a3ce-0271d5826c44">
 <h3 align="center">Un futuro desarrollador de aplicaciones web</h3>
-<p>Me gusta todo lo relacionado con la programacion y intento cada dia aprender algo nuevo, a dia de hoy estoy estudiando un grado superior de desarrollo de aplicaciones web.Tambien realice un curso de programacion orientado a las aplicaciones de gestion, estudie durante 2 años una carrera de ingenieria en sistemas de informacion.</p>
-<p>Aparte de programar me gusta realizar otras actividades como escuchar musica de mago de Oz, jugar a videojuegos, ver anime, jugar a badminton y pasarmelo bien con mi familia y amigos.</p>
+<p>Me gusta todo lo relacionado con la programación e intento cada día aprender algo nuevo, a día de hoy estoy estudiando un grado superior de desarrollo de aplicaciones web. También realicé un curso de programación orientado a las aplicaciones de gestión, estudié durante 2 años una carrera de ingeniería en sistemas de información.</p>
+<p>Aparte de programar me gusta realizar otras actividades como escuchar música de Mago de Oz, jugar a videojuegos, ver anime, jugar a bádminton y pasármelo bien con mi familia y amigos.</p>
 
 
 - 🌱 Estoy aprendiendo a utilizar **HTML, CSS, MySQL, Java, Kotlin**
